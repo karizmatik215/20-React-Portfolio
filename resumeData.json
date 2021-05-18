@@ -1,0 +1,70 @@
+{
+  "main": {
+    "name": "Juan Sanchez",
+    "occupation": "Associate Software Engineer",
+    "description": "I'm on a journey to learn about various web technologies to find a profession I can call home",
+    "image": "profilepic.jpg",
+    "bio": "I've worked for over 13 years at the City of Philadelphia doing Network Support for the Health Department. I'm currently attending the Upenn Coding Bootcamp so that I can transition into web development. I've spent many years helping people with their computer issues and was given an opportunity to try something different so thought I'd give web development a try since there are so many things abot the web that have always interested me. I hope to eventually be able to help others in this new direction I've taken and make some things of my own.",
+    "contactmessage": "Feel free to email me if you have any questions.",
+    "email": "juan.sanchez@phila.gov",
+    "phone": "267-307-6176",
+    "address": {
+      "city": "Philadelphia",
+      "state": "PA"
+    },
+    "website": "https://karizmatik215.github.io/20-React-Portfolio/",
+    "resumedownload": "https://github.com/karizmatik215/Portfolio/raw/main/Resume-April-2021.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/juan-sanchez-58a266201/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/karizmatik215",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Project 1 - Video Game Search",
+        "category": "Search for video game pictures and videos",
+        "image": "vgs-images.png",
+        "url": "https://github.com/elliott-steven/project1-videogamesearch"
+      },
+      {
+        "title": "Project 2 - JAM Chat",
+        "category": "General chat website with no saved messages",
+        "image": "jamchat.png",
+        "url": "https://github.com/Arivas00/JAMChat"
+      },
+      {
+        "title": "README Generator",
+        "category": "Comand line app for creating README files",
+        "image": "readmegenerator.png",
+        "url": "https://github.com/karizmatik215/09-Node.js-Homework-Professional-README-Generator"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website",
+        "image": "resume-website.png",
+        "url": "https://karizmatik215.github.io/20-React-Portfolio/"
+      },
+      {
+        "title": "Tech Blog",
+        "category": "Homework for Model View Controller",
+        "image": "techblog.png",
+        "url": "https://github.com/karizmatik215/14-Model-View-Controller-Tech-Blog"
+      },
+      {
+        "title": "Team Profile Generator",
+        "category": "Homework for Object Oriented Programming",
+        "image": "tpg.png",
+        "url": "https://github.com/karizmatik215/10-Object-Oriented-Programming-Team-Profile-Generator"
+      }
+    ]
+  }
+}
