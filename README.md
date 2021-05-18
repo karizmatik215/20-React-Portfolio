@@ -6,15 +6,11 @@ Profile redone in React
 
 ## Deployment
 
-To deploy this project run
-
-```bash
-  npm run deploy
-```
+[React Portfolio](https://karizmatik215.github.io/20-React-Portfolio/)
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src="./src/images/resume-website.png" width="512">
 
 ## License
 
