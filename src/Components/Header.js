@@ -7,15 +7,15 @@ class Header extends Component {
       var occupation = this.props.data.occupation;
       var description = this.props.data.description;
       var city = this.props.data.address.city;
-      var networks = this.props.data.social.map(function (network) {
-        return (
-          <li key={network.name}>
-            <a href={network.url}>
-              <i className={network.className}></i>
-            </a>
-          </li>
-        );
-      });
+      // var networks = this.props.data.social.map(function (network) {
+      //   return (
+      //     <li key={network.name}>
+      //       <a href={network.url}>
+      //         <i className={network.className}></i>
+      //       </a>
+      //     </li>
+      //   );
+      // });
     }
 
     return (
@@ -39,8 +39,13 @@ class Header extends Component {
               </a>
             </li>
             <li>
-              <a className="smoothscroll" href="#portfolio">
-                Portfolio
+              <a className="smoothscroll" href="#projects">
+                Projects
+              </a>
+            </li>
+            <li>
+              <a className="smoothscroll" href="#footer">
+                Social
               </a>
             </li>
           </ul>
@@ -49,10 +54,11 @@ class Header extends Component {
           <div className="banner-text">
             <h1 className="responsive-headline">I'm {name}.</h1>
             <h3>
-              I'm a {city} based <span>{occupation}</span>. {description}.
+              <span>
+                I'm a new {occupation} based in {city}. {description}.
+              </span>
             </h3>
             <hr />
-            <ul className="social">{networks}</ul>
           </div>
         </div>
 
