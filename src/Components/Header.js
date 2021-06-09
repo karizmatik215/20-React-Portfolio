@@ -27,7 +27,6 @@ class Header extends Component {
           <a className="mobile-btn" href="#home" title="Hide navigation">
             Hide navigation
           </a>
-
           <ul id="nav" className="nav">
             <li className="current">
               <a className="smoothscroll" href="#home">
@@ -39,7 +38,6 @@ class Header extends Component {
                 About
               </a>
             </li>
-
             <li>
               <a className="smoothscroll" href="#portfolio">
                 Portfolio
@@ -47,7 +45,6 @@ class Header extends Component {
             </li>
           </ul>
         </nav>
-
         <div className="row banner">
           <div className="banner-text">
             <h1 className="responsive-headline">I'm {name}.</h1>
