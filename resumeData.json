@@ -1,8 +1,8 @@
 {
   "main": {
     "name": "Juan Sanchez",
-    "occupation": "Associate Software Engineer",
-    "description": "I'm on a journey to learn about various web technologies to find a profession I can call home",
+    "occupation": "Associate User Experience Designer ",
+    "description": "Always learning. Looking forward to a new start designing experiences for users and seeing where this journey takes me",
     "image": "profilepic.jpg",
     "bio": "I've worked for over 13 years at the City of Philadelphia doing Network Support for the Health Department. I'm currently attending the Upenn Coding Bootcamp so that I can transition into web development. I've spent many years helping people with their computer issues and was given an opportunity to try something different so thought I'd give web development a try since there are so many things abot the web that have always interested me. I hope to eventually be able to help others in this new direction I've taken and make some things of my own.",
     "contactmessage": "Feel free to email me if you have any questions.",
@@ -42,16 +42,16 @@
         "url": "https://github.com/Arivas00/JAMChat"
       },
       {
+        "title": "Project 3 - Reader Feeder",
+        "category": "Help kids read more books with rewards program.",
+        "image": "screenshot_final.png",
+        "url": "https://github.com/grider27/ateam"
+      },
+      {
         "title": "README Generator",
         "category": "Comand line app for creating README files",
         "image": "readmegenerator.png",
         "url": "https://github.com/karizmatik215/09-Node.js-Homework-Professional-README-Generator"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website",
-        "image": "resume-website.png",
-        "url": "https://karizmatik215.github.io/20-React-Portfolio/"
       },
       {
         "title": "Tech Blog",
@@ -60,16 +60,10 @@
         "url": "https://github.com/karizmatik215/14-Model-View-Controller-Tech-Blog"
       },
       {
-        "title": "Team Profile Generator",
-        "category": "Homework for Object Oriented Programming",
-        "image": "tpg.png",
-        "url": "https://github.com/karizmatik215/10-Object-Oriented-Programming-Team-Profile-Generator"
-      },
-      {
         "title": "GoogleBooks Search",
         "category": "Homework for React Search using Google Books API",
         "image": "googlebooks.png",
-        "url": "https://fathomless-fjord-21002.herokuapp.com/"
+        "url": "https://github.com/karizmatik215/21-Google-Books-Search"
       }
     ]
   }
